@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Akshat Singh
 ---
 
-[MERN Stack](https://your-image-host.com/mern-stack-banner.png) 
+![MERN Stack](https://i.imgur.com/S7GvFNU.png)
 
 ---
 
