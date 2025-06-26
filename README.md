@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Akshat Singh
 
-![Header Banner](images/mern-header-banner.png)
+
 
 ### 🚀 Backend Developer | 💻 Tech Enthusiast | 🏆 Competitive Programmer
 
@@ -10,7 +10,7 @@ Currently diving deep into Node.js, Express, and MongoDB!
 ---
 
 ## 🔧 Tech Stack
-![Tech Stack](images/tech-stack-infographic.png)
+
 
 - 🚀 **Languages**: JavaScript, C++, Python  
 - 🛠️ **Backend**: Node.js, Express.js  
@@ -20,7 +20,7 @@ Currently diving deep into Node.js, Express, and MongoDB!
 ---
 
 ## 💻 Projects
-![Project Showcase](images/project-mockup.png)
+
 
 Check out my repositories for MERN-based projects and more:  
 - [All my Codes are Available at](https://github.com/akshat22022004?tab=repositories)
@@ -33,7 +33,6 @@ Check out my repositories for MERN-based projects and more:
 ---
 
 ## 🏆 Competitive Programming Profiles
-![Competitive Programming](images/coding-competition.png)
 
 - 👨‍💻 [LeetCode](https://leetcode.com/u/Akshatsingh_1234/)
 - 💡 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ayushsinodlp/)
@@ -41,7 +40,6 @@ Check out my repositories for MERN-based projects and more:
 ---
 
 ## 🌐 Connect with me
-![Connect with Me](images/social-media-banner.png)
 
 - [LinkedIn](https://www.linkedin.com/in/akshat-singh-53421a304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [GitHub](https://github.com/akshat22022004?tab=repositories)
