@@ -1,6 +1,9 @@
 # 👋 Hello! I'm Akshat Singh
+---
 
-![MERN Stack](https://your-image-host.com/mern-stack-banner.png) 
+[MERN Stack](https://your-image-host.com/mern-stack-banner.png) 
+
+---
 
 ###🚀 Backend Developer | 💻 Tech Enthusiast | 🏆 Competitive Programmer
 
