@@ -1,9 +1,4 @@
 # 👋 Hello! I'm Akshat Singh
----
-![Tech Stack](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-
-
----
 
 ###🚀 Backend Developer | 💻 Tech Enthusiast | 🏆 Competitive Programmer
 
